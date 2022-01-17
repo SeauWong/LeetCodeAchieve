@@ -1,9 +1,5 @@
 package com.wongcu.concurrent.no1114;
 
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.LockSupport;
-import java.util.concurrent.locks.ReentrantLock;
-
 /**
  * @author huangsiyao
  * @version 2020/1/2 11:31
