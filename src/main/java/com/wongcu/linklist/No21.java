@@ -1,5 +1,6 @@
 package com.wongcu.linklist;
 
+import com.wongcu.utils.ListNode;
 import com.wongcu.utils.ListUtil;
 
 public class No21 {

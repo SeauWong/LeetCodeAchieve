@@ -1,7 +1,5 @@
 package com.wongcu.utils;
 
-import com.wongcu.linklist.ListNode;
-
 public class ListUtil {
 
     public static ListNode buildFromArr(int[] arr){

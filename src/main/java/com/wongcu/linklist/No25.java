@@ -1,5 +1,7 @@
 package com.wongcu.linklist;
 
+import com.wongcu.utils.ListNode;
+
 public class No25 {
 
     static class Solution {

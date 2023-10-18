@@ -1,4 +1,4 @@
-package com.wongcu.linklist;
+package com.wongcu.utils;
 
 public class ListNode {
 
